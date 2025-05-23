@@ -21,9 +21,9 @@ Ce site permet de créer, modifier, enregistrer et passer des questionnaires à 
 
 ## Voir le site
 
-> [https://tonpseudo.github.io/nom-du-depot/](https://tonpseudo.github.io/nom-du-depot/)
+> [[https://tonpseudo.github.io/nom-du-depot/](https://poakolu.github.io/qcm/)
 
-Remplace `"tonpseudo"` et `"nom-du-depot"` par ton vrai nom d’utilisateur GitHub et ton dépôt.
+
 
 ## Crédits
 Gauthier# qcm
